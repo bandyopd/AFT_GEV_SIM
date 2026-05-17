@@ -25,12 +25,12 @@ The repository contains four main folders, each corresponding to a candidate mod
 The error distribution:
 
 (a) Normal <br>
-(b) GEV
+(b) Generalized Extreme Value (GEV)
 
 The basis used to model the single-index function:
 
-(a) BP <br>
-(b) GP 
+(a) Bernstein Polynomial (BP) <br>
+(b) Gaussian Process (GP) 
 
 Each folder is named according to the corresponding method and contains the files needed to reproduce the simulation results.
 
